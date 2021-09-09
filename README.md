@@ -1,6 +1,6 @@
 # fetch-cli
 
-### fetch-cli is a package that allows user to make http requests from the command line
+### fetch-cli is a package that allows user to make http requests to servers from the command line
 
 ## Getting Started
 
