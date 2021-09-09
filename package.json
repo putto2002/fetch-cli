@@ -1,0 +1,20 @@
+{
+  "name": "fetch-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "fetch": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart" :  "nodemon index.js"
+  },
+  "keywords": ["cli", "fetch"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "nodemon": "^2.0.12"
+  }
+}
